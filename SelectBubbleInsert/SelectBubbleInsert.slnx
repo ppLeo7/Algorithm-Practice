@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SelectBubbleInsert/SelectBubbleInsert.vcxproj" Id="f38232f4-5ea8-4859-adf3-2db0044fe69c" />
+</Solution>

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="BinarySearch/BinarySearch.vcxproj" Id="815db687-ebb7-4501-be89-ca7f5fafb6ac" />
+</Solution>
