@@ -7,10 +7,12 @@
 - class22 归并分治（小和问题）
 - class23 随机快速排序
 - class24 随机选择
+- class25 堆排序
 
 ## 进度
 - [x] class21 归并排序
 - [x] class22 归并分治
 - [x] class23 随机快速排序
 - [x] class24 随机选择
+- [x] class25 堆排序
 - [ ] 后续课程...
