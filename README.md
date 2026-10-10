@@ -1,18 +1,30 @@
-﻿# Algorithm-Practice
-
-左程云算法课 Java 代码的 C++ 复现，开发环境 Visual Studio。
-
 ## 目录
-- class21 归并排序
-- class22 归并分治（小和问题）
-- class23 随机快速排序
-- class24 随机选择
-- class25 堆排序
+
+- class003 二进制与位运算
+- class004 选择冒泡插入排序
+- class005 对数器
+- class006 二分查找
+- class009-012 链表
+- class014-016 栈和队列
+- class017-018 二叉树递归遍历
+- class021 归并排序
+- class022 归并分治（小和问题）
+- class023 随机快速排序
+- class024 随机选择
+- class025 堆排序
 
 ## 进度
-- [x] class21 归并排序
-- [x] class22 归并分治
-- [x] class23 随机快速排序
-- [x] class24 随机选择
-- [x] class25 堆排序
+
+- [x] class003 二进制与位运算
+- [x] class004 选择冒泡插入排序
+- [x] class005 对数器
+- [x] class006 二分查找
+- [x] class009-012 链表
+- [x] class014-016 栈和队列
+- [x] class017-018 二叉树递归遍历
+- [x] class021 归并排序
+- [x] class022 归并分治
+- [x] class023 随机快速排序
+- [x] class024 随机选择
+- [x] class025 堆排序
 - [ ] 后续课程...
