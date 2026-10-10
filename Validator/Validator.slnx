@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="Validator/Validator.vcxproj" Id="f2f355cf-b082-4b3e-a3e6-62d243baec73" />
-</Solution>
